@@ -1,0 +1,5 @@
+- Fetch historical options data DONE
+- Historical Volatility 
+- Greeks 
+- Option Price Sensitivity
+- Options with Monte Carlo
